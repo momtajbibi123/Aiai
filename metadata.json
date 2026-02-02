@@ -1,0 +1,7 @@
+{
+  "name": "OmniGenius AI",
+  "description": "A high-performance AI-powered Q&A application that solves complex questions from text inputs and images using Gemini's advanced multimodal capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
